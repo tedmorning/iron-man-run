@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/3D Infinite Runner/Scenes/3D Infinite Runner.unity
+  isLoaded: 1
+  isActive: 1
